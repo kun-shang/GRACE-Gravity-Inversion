@@ -1,3 +1,10 @@
+FES12_LP.gfc
+GOT48_LP.gfc
+OSU12_LP.gfc 
+eigen-6c2.gfc
+
+*.tar
+
 # Compiled Object files
 *.slo
 *.lo
