@@ -1,1 +1,1 @@
-../src/novas/eph_manager.h
+../src/novasc/eph_manager.h

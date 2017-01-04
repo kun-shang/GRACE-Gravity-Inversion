@@ -1,1 +1,1 @@
-../src/novas/novas.h
+../src/novasc/novas.h

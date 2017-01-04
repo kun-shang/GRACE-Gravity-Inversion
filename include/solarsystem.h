@@ -1,1 +1,1 @@
-../src/novas/solarsystem.h
+../src/novasc/solarsystem.h

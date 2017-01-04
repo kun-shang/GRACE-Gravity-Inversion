@@ -1,1 +1,0 @@
-Cdist/novas.c
