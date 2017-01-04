@@ -1,0 +1,420 @@
+ipGFD1XF                    /* GPS Flight Data Format File            */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipGFD1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef 
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipGNV1AF                    /* GPS Navigation Level 1A Format File    */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipGNV1AF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef 
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipSCA1AF                    /* Star Camera Assembly 1A Data Fmt File  */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipSCA1AF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipACC1AF                    /* Level 1A Accelerometer Data File       */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipACC1AF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipGNV1BF                    /* GPS Navigation Level 1B Format File    */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipGNV1BF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipSCA1BF                    /* Star Camera Assembly 1B Data Fmt File  */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipSCA1BF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipKBR1BF                    /* Level 1B KBR Data Format File          */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipKBR1BF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipACC1BF                    /* Level 1B Accelerometer Data File       */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipACC1BF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipXXXVOF                    /* Vector Orientation Data File           */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipXXXVOF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipIOA1BF                    /* Inertial Orientation of ACC File       */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipIOA1BF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipOSCFQF                    /* Ulta Stable Oscillator Stability File  */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipOSCFQF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipTIM1XF                    /* Spacecraft mass file                   */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipTIM1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipMAS1XF                    /* Spacecraft mass file                   */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipMAS1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipIHK1XF                    /* IPU Housekeeping file                  */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipIHK1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipMAG1XF                    /* Magnetic Torquer Activation File       */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipMAG1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipHRT1XF                    /* High Resolution Temperature File       */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipHRT1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipTHR1XF                    /* Thruster Activation File               */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipTHR1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipCLK1BF                  /* Clock offset File                        */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipCLK1BF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipTNK1XF                  /* Clock offset File                        */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipTNK1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipILG1XF                  /* IPU log file                             */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipILG1XF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef
+ipPCI1AF                  /* PC to CG correction file                 */
+   iphProducerAgency         : PRODUCER AGENCY               : NASA
+   iphProducerInstitution    : PRODUCER INSTITUTION          : JPL
+   iphFileType               : FILE TYPE ipPCI1AF            : Nodef
+   iphFileFormat             : FILE FORMAT 0=BINARY 1=ASCII  : Nodef
+   iphHeadNrecord            : NUMBER OF HEADER RECORDS      : Nodef
+   iphSoftwareVersion        : SOFTWARE VERSION              : Nodef
+   iphSoftwareLinkTime       : SOFTWARE LINK TIME            : Nodef
+   iphDocumentation          : REFERENCE DOCUMENTATION       : GRACE Level 1 Software Handbook
+   iphSatelliteName          : SATELLITE NAME                : Nodef
+   iphSensorName             : SENSOR NAME                   : Nodef
+   iphTimeEpoch              : TIME EPOCH (GPS TIME)         : 2000-01-01 12:00:00
+   iphTimeFirstObs           : TIME FIRST OBS(SEC PAST EPOCH): Nodef
+   iphTimeLastObs            : TIME LAST OBS(SEC PAST EPOCH) : Nodef
+   iphNumberObs              : NUMBER OF DATA RECORDS        : Nodef
+   iphProductCreateStartTime : PRODUCT CREATE START TIME(UTC): Nodef
+   iphProductCreateEndTime   : PRODUCT CREATE END TIME(UTC)  : Nodef
+   iphNumberBytes            : FILESIZE (BYTES)              : Nodef
+   iphFileName               : FILENAME                      : Nodef
+   iphProcessLevel           : PROCESS LEVEL (1A OR 1B)      : Nodef

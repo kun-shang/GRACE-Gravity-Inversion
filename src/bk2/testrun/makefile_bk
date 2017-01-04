@@ -1,0 +1,57 @@
+#
+#	create executable
+#
+
+EXE  = test.exe
+DBG  = test.dbg
+SRCS = main.c
+
+DIR = $(HOME)/my_packages
+
+LDIR = $(DIR)/lib
+IDIR = $(DIR)/include
+
+#LIB  = $(LDIR)/gnv2gps.a
+LIBS = $(LDIR)/libnovas.a \
+       $(LDIR)/libcoord.a
+
+all: $(EXE)
+.PHONY : all
+
+
+FFLAGS   = -Wall -I$(IDIR) -O3
+FC       = gfortran
+CFLAGS   = -Wall -I$(IDIR) -O3
+CC       = gcc
+LDFLAGS  = -L. -L$(LDIR)
+LDLIBS   = -lm -lgfortran
+
+
+
+$(EXE) : $(SRCS) $(LIBS)
+	$(CC) -o $@ $^ $(CFLAGS) $(LDFLAGS) $(LDLIBS)
+
+debug: $(DBG)
+.PHONY : debug
+
+$(DBG) : $(SRCS) $(LIBS)
+	$(CC) -g -o $@ $^ $(CFLAGS) $(LDFLAGS) $(LDLIBS)
+
+#%.o : %.c
+#	$(CC) -c $(CFLAGS) $< -o $@
+#	ar -rv $(LIB) *.o
+
+ 
+#%.o : %.f
+#	$(FC) -c $(FFLAGS) $< -o $@
+#	ar -rv $(LIB) *.o
+
+
+#%.o : %.f90
+#	$(FC) -c $(FFLAGS) $< -o $@
+#	ar -rv $(LIB) *.o
+
+
+.PHONY: clean
+clean:
+	rm  $(EXE) $(DBG)

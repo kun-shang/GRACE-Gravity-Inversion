@@ -1,0 +1,224 @@
+(  23) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   23
+(  12) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   12
+(  13) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   13
+(  14) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   14
+(  15) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   15
+(  16) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   16
+(  17) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   17
+(  18) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   18
+(  19) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   19
+(  20) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   20
+(  10) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   10
+(  21) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   21
+(  11) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   11
+(  22) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =   22
+(   0) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    0
+(   1) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    1
+(   2) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    2
+(   3) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    3
+(   4) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    4
+(   5) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    5
+(   6) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    6
+(   8) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    8
+(   9) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    9
+(   7) nprocs =   24 nprow =    1 npcol =   24 myrow =    0 mycol =    7
+(  12) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 264264 ndata_e = 286285 mp = 22022
+(  13) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 286286 ndata_e = 308307 mp = 22022
+(  13) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 7943 npara_e = 8553
+(  13) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  13) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  14) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 308308 ndata_e = 330329 mp = 22022
+(  14) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 8554 npara_e = 9164
+(  14) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  14) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  15) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 330330 ndata_e = 352351 mp = 22022
+(  15) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 9165 npara_e = 9775
+(  15) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  15) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  16) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 352352 ndata_e = 374373 mp = 22022
+(  16) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 9776 npara_e = 10386
+(  16) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  16) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  17) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 374374 ndata_e = 396395 mp = 22022
+(  17) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 10387 npara_e = 10997
+(  17) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  17) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  12) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 7332 npara_e = 7942
+(  12) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  12) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   6) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 132132 ndata_e = 154153 mp = 22022
+(   6) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 3666 npara_e = 4276
+(   6) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   6) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   7) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 154154 ndata_e = 176175 mp = 22022
+(   7) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 4277 npara_e = 4887
+(   7) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   7) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   8) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 176176 ndata_e = 198197 mp = 22022
+(   8) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 4888 npara_e = 5498
+(   8) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   8) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   9) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 198198 ndata_e = 220219 mp = 22022
+(  10) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 220220 ndata_e = 242241 mp = 22022
+(  10) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 6110 npara_e = 6720
+(  10) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  10) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  11) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 242242 ndata_e = 264263 mp = 22022
+(  11) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 6721 npara_e = 7331
+(  11) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  11) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   9) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 5499 npara_e = 6109
+(   9) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   9) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  23) ndata_all = 528506 ndata_avg = 22022 ndata = 22000 ndata_s = 506506 ndata_e = 528505 mp = 22000
+(  18) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 396396 ndata_e = 418417 mp = 22022
+(  19) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 418418 ndata_e = 440439 mp = 22022
+(  20) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 440440 ndata_e = 462461 mp = 22022
+(  21) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 462462 ndata_e = 484483 mp = 22022
+(  22) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 484484 ndata_e = 506505 mp = 22022
+(  18) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 10998 npara_e = 11608
+(  18) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  18) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  23) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 588 npara_s = 14053 npara_e = 14640
+(  23) index  check: int_lim ~= 0.299981G < INT_LIM (2G) : safe~~~
+(  23) memory check: mem_lim ~= 2.503365G < MEM_LIM (4G) : safe~~~
+(  19) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 11609 npara_e = 12219
+(  19) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  19) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  20) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 12220 npara_e = 12830
+(  20) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  20) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  21) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 12831 npara_e = 13441
+(  21) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  21) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  22) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 13442 npara_e = 14052
+(  22) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(  22) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   0) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 0 ndata_e = 22021 mp = 22022
+(   1) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 22022 ndata_e = 44043 mp = 22022
+(   1) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 611 npara_e = 1221
+(   1) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   1) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   2) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 44044 ndata_e = 66065 mp = 22022
+(   2) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 1222 npara_e = 1832
+(   2) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   2) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   3) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 66066 ndata_e = 88087 mp = 22022
+(   3) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 1833 npara_e = 2443
+(   3) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   3) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   4) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 88088 ndata_e = 110109 mp = 22022
+(   4) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 2444 npara_e = 3054
+(   4) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   4) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   5) ndata_all = 528506 ndata_avg = 22022 ndata = 22022 ndata_s = 110110 ndata_e = 132131 mp = 22022
+(   5) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 3055 npara_e = 3665
+(   5) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   5) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(   0) nmax = 120 npara_all = 14641 npara_avg = 611 npara = 611 npara_s = 0 npara_e = 610
+(   0) index  check: int_lim ~= 0.300281G < INT_LIM (2G) : safe~~~
+(   0) memory check: mem_lim ~= 2.508274G < MEM_LIM (4G) : safe~~~
+(  13)     2: seconds of initialization and scan data
+(  14)     2: seconds of initialization and scan data
+(  15)     2: seconds of initialization and scan data
+(  16)     2: seconds of initialization and scan data
+(  17)     2: seconds of initialization and scan data
+(  12)     2: seconds of initialization and scan data
+(   6)     2: seconds of initialization and scan data
+(   7)     2: seconds of initialization and scan data
+(   8)     2: seconds of initialization and scan data
+(   9)     2: seconds of initialization and scan data
+(  10)     2: seconds of initialization and scan data
+(  11)     2: seconds of initialization and scan data
+(  22)     2: seconds of initialization and scan data
+(  20)     2: seconds of initialization and scan data
+(  19)     2: seconds of initialization and scan data
+(  21)     2: seconds of initialization and scan data
+(  23)     2: seconds of initialization and scan data
+(  18)     2: seconds of initialization and scan data
+(   1)     3: seconds of initialization and scan data
+(   3)     3: seconds of initialization and scan data
+(   5)     3: seconds of initialization and scan data
+(   4)     3: seconds of initialization and scan data
+(   2)     3: seconds of initialization and scan data
+(   0)     3: seconds of initialization and scan data
+(  23)    17: seconds of processing gravity and partial
+(  17)    17: seconds of processing gravity and partial
+(  15)    17: seconds of processing gravity and partial
+(   9)    17: seconds of processing gravity and partial
+(  21)    17: seconds of processing gravity and partial
+(  11)    17: seconds of processing gravity and partial
+(  13)    17: seconds of processing gravity and partial
+(  14)    17: seconds of processing gravity and partial
+(  16)    17: seconds of processing gravity and partial
+(  19)    18: seconds of processing gravity and partial
+(  10)    18: seconds of processing gravity and partial
+(  20)    18: seconds of processing gravity and partial
+(   7)    18: seconds of processing gravity and partial
+(   8)    18: seconds of processing gravity and partial
+(   6)    18: seconds of processing gravity and partial
+(  22)    18: seconds of processing gravity and partial
+(  18)    18: seconds of processing gravity and partial
+(  12)    18: seconds of processing gravity and partial
+(   5)    17: seconds of processing gravity and partial
+(   3)    17: seconds of processing gravity and partial
+(   4)    17: seconds of processing gravity and partial
+(   2)    17: seconds of processing gravity and partial
+(   1)    17: seconds of processing gravity and partial
+(   0)    17: seconds of processing gravity and partial
+(  11)   802: seconds of finish ATPA&ATPY
+(   9)   802: seconds of finish ATPA&ATPY
+(   7)   801: seconds of finish ATPA&ATPY
+(   3)   801: seconds of finish ATPA&ATPY
+(   5)   801: seconds of finish ATPA&ATPY
+(  15)   802: seconds of finish ATPA&ATPY
+(   1)   801: seconds of finish ATPA&ATPY
+(  13)   802: seconds of finish ATPA&ATPY
+(  14)   802: seconds of finish ATPA&ATPY
+(  17)   802: seconds of finish ATPA&ATPY
+(  23)   802: seconds of finish ATPA&ATPY
+(  12)   801: seconds of finish ATPA&ATPY
+(   2)   801: seconds of finish ATPA&ATPY
+(  16)   802: seconds of finish ATPA&ATPY
+(   6)   801: seconds of finish ATPA&ATPY
+(  18)   801: seconds of finish ATPA&ATPY
+(   8)   801: seconds of finish ATPA&ATPY
+(  19)   801: seconds of finish ATPA&ATPY
+(  10)   801: seconds of finish ATPA&ATPY
+(  21)   802: seconds of finish ATPA&ATPY
+(  22)   801: seconds of finish ATPA&ATPY
+(  20)   801: seconds of finish ATPA&ATPY
+(   4)   801: seconds of finish ATPA&ATPY
+(   0)   801: seconds of finish ATPA&ATPY
+(   0)    71: seconds of inverting N
+OUTPUT: 2006-05.mvf.l1c.120.DMA.L2
+(   0)     0: seconds of output data
+
+Normal end of ECHO!
+
+press any key to finish...
+n0621: cp: cannot stat `*.L2': No such file or directory
+Job Id: 2792769.oak-batch.osc.edu
+    Job_Name = L2solver.DMA.scr
+    resources_used.cput = 05:41:01
+    resources_used.mem = 63730360kb
+    resources_used.vmem = 69095372kb
+    resources_used.walltime = 00:14:24
+
+-----------------------
+Resources requested:
+nodes=2:ppn=12
+-----------------------
+Resources used:
+cput=05:55:03
+walltime=00:15:05
+mem=62.236 GB
+vmem=67.475 GB
+-----------------------
+Resource units charged (estimate):
+0.603 RUs
+-----------------------
+Estimated RU charges under proposed new accounting policy:
+0.603 RUs
+See http://osc.edu/memcharging for more information.
+-----------------------
