@@ -31,6 +31,7 @@ eigen-6c2.gfc
 *.lib
 
 # Executables
+*.e
 *.exe
 *.out
 *.app
