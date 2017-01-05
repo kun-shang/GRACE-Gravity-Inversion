@@ -9,7 +9,7 @@ MDIRS = $(patsubst %,$(DIR)/%,$(MODULES))
 
 
 all:
-	mkdir -p exe
+	mkdir -p exe lib
 	for dir in $(MDIRS); do \
 		$(MAKE) --no-print-directory -C $$dir all; \
 	done
