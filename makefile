@@ -1,7 +1,7 @@
 
 #MODULES = novas coord grvts grace fitgps orb2l1c RELEASE_2010-03-31
 #MODULES = novas coord grvts numrs grace GRACEL1C RELEASE_2010-03-31
-MODULES = novasc coord grvts numrs grace GRACEL1C GraceReadSW L1CMPI L2MPI
+MODULES = novasc coord grvts numrs grace GRACEL1C GraceReadSW 
 
 DIR = src
 
@@ -9,7 +9,7 @@ MDIRS = $(patsubst %,$(DIR)/%,$(MODULES))
 
 
 all:
-	mkdir -p exe lib
+	mkdir -p exe
 	for dir in $(MDIRS); do \
 		$(MAKE) --no-print-directory -C $$dir all; \
 	done
